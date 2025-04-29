@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Base app theme -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here -->
+    </style>
+
+    <!-- Toolbar Style to make icons visible -->
+    <style name="ToolbarTheme" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="android:textColorPrimary">#FFFFFF</item> <!-- title color -->
+        <item name="android:textColorSecondary">#FFFFFF</item> <!-- subtitle color -->
+        <item name="android:colorControlNormal">#FFFFFF</item> <!-- menu icon color -->
+    </style>
+
+</resources>
